@@ -4,6 +4,8 @@ CNN Waste Image Classification — Automated Sorting System
 Dataset: 2.8K waste images of 6 categories - Plastic, Glass, Cardboard, Paper, Vegetation, Metal
 
 Method: Custom CNNs · Transfer learning (MobileNetV2)
+
+numpy · pandas · matplotlib · seaborn · scikit-learn · tensorflow / keras (including ImageDataGenerator, MobileNetV2)
 _______
 Goal: Sorting waste at scale into the correct categories without manual labour.
 
